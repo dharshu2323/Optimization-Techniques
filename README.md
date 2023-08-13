@@ -18,3 +18,8 @@
       and squared gradients.   
 
 ![download](https://github.com/dharshu2323/Optimization-Techniques/assets/104815447/d2421010-ddc6-4fa2-a71e-7a3b79d0bea8)
+
+# GENETIC ALGORITHM
+   👉It is a stochastic global optimization algorithm.
+   👉It is biologically inspired algorithm
+   
