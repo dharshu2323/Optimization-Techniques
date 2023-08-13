@@ -21,5 +21,7 @@
 
 # GENETIC ALGORITHM
    👉It is a stochastic global optimization algorithm.
+   
+   
    👉It is biologically inspired algorithm
    
