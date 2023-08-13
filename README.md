@@ -16,7 +16,10 @@
 # MINI-BATCH GRADIENT DESCENT:
    👉In this algorithm the training dataset is divided into smaller sub-datasets.
 
-   👉Here we have Dataset Division,Iterative Updates ,Parameter Update,Convergence
+   👉Here we have Dataset Division,Iterative Update,Parameter Update  ,Convergence
+
+   ![download (1)](https://github.com/dharshu2323/Optimization-Techniques/assets/104815447/f8493a36-30f8-49b3-bf89-c0b530c8cc70)
+
 
    
 
