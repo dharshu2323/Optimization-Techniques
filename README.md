@@ -14,7 +14,7 @@
 ![gradient-descent-in-machine-learning1](https://github.com/dharshu2323/Optimization-Techniques/assets/104815447/08e4968e-1e68-429a-a601-30ab34231784)
 
  # ADAPTIVE GRADIENT DESCENT:
-    👉In this algorithm adapts learning rates for each parameter individually and incorporates exponential moving averages of gradients 
+  👉In this algorithm adapts learning rates for each parameter individually and incorporates exponential moving averages of gradients 
       and squared gradients.   
-      
-![gradient-descent-in-machine-learning1](https://github.com/dharshu2323/Optimization-Techniques/assets/104815447/e8936570-0086-4434-a9f6-a57126c1d767)
+
+![download](https://github.com/dharshu2323/Optimization-Techniques/assets/104815447/d2421010-ddc6-4fa2-a71e-7a3b79d0bea8)
