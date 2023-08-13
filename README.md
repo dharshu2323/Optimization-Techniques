@@ -13,6 +13,13 @@
 
 ![gradient-descent-in-machine-learning1](https://github.com/dharshu2323/Optimization-Techniques/assets/104815447/08e4968e-1e68-429a-a601-30ab34231784)
 
+# MINI-BATCH GRADIENT DESCENT:
+   👉In this algorithm the training dataset is divided into smaller sub-datasets.
+
+   👉Here we have Dataset Division,Iterative Updates ,Parameter Update,Convergence
+
+   
+
  # ADAPTIVE GRADIENT DESCENT:
   👉In this algorithm adapts learning rates for each parameter individually and incorporates exponential moving averages of gradients 
       and squared gradients.   
