@@ -19,4 +19,4 @@
       and squared gradients.   
 
       
-      ![gradient-descent-in-machine-learning1](https://github.com/dharshu2323/Optimization-Techniques/assets/104815447/aec4169a-bbad-434a-b5f2-67e2dd1dfbfc)
+      ![gradient-descent-in-machine-learning1](https://github.com/dharshu2323/Optimization-Techniques/assets/104815447/5321ffeb-1623-4188-869b-bd3beb2bc0de)
