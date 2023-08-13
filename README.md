@@ -20,10 +20,7 @@
 
    ![download (1)](https://github.com/dharshu2323/Optimization-Techniques/assets/104815447/f8493a36-30f8-49b3-bf89-c0b530c8cc70)
 
-
-   
-
- # ADAPTIVE GRADIENT DESCENT:
+# ADAPTIVE GRADIENT DESCENT:
   👉In this algorithm adapts learning rates for each parameter individually and incorporates exponential moving averages of gradients 
       and squared gradients.   
 
@@ -33,5 +30,14 @@
    👉It is a stochastic global optimization algorithm.
    
    
-   👉It is biologically inspired algorithm
+   👉It is a  biologically inspired algorithm
+
+# HYPERPARAMETER TUNING
+
+   👉It involves finding the optimal combination of hyperparameters that leads to the best performance of the model on a validation set or through cross-validation. 
    
+   
+   👉GridSearchCV and RandomizedSearchCV are the tools used for
+
+   ![67819opt](https://github.com/dharshu2323/Optimization-Techniques/assets/104815447/8d593946-bdc1-4b62-9e12-c721aaee16df)
+
