@@ -1,6 +1,6 @@
 # Optimization-Techniques
 
-GRADIENT DESCENT:
+# GRADIENT DESCENT:
   
    👉It is the iterative optimization algorithm used in machine learning to train models.
    
@@ -13,3 +13,10 @@ GRADIENT DESCENT:
 
 ![gradient-descent-in-machine-learning1](https://github.com/dharshu2323/Optimization-Techniques/assets/104815447/08e4968e-1e68-429a-a601-30ab34231784)
 
+# ADAPTIVE GRADIENT DESCENT:
+
+      👉In this algorithm adapts learning rates for each parameter individually and incorporates exponential moving averages of gradients 
+      and squared gradients.   
+
+      
+      ![gradient-descent-in-machine-learning1](https://github.com/dharshu2323/Optimization-Techniques/assets/104815447/aec4169a-bbad-434a-b5f2-67e2dd1dfbfc)
