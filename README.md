@@ -1,4 +1,5 @@
 # Optimization-Techniques
+In this repository, you can find some optimization techniques to find the best optimal parameter values that minimize or maximize an objective function.
 
 # GRADIENT DESCENT:
   
