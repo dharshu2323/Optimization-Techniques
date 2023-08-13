@@ -3,7 +3,11 @@
 GRADIENT DESCENT:
   
    👉It is the iterative optimization algorithm used in machine learning to train models.
+   
+   
    👉It is also used to train neural networks
+   
+   
    👉It helps in finding the local minimum of a function.
 
 
